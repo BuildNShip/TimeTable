@@ -1,0 +1,117 @@
+{
+  "Monday": [
+    {
+      "startTime": "9:00 AM",
+      "endTime": "10:00 AM",
+      "periodName": "Entrepreneur Development"
+    },
+    {
+      "startTime": "10:00 AM",
+      "endTime": "11:00 AM",
+      "periodName": "Law"
+    },
+    {
+      "startTime": "11:00 AM",
+      "endTime": "12:00 PM",
+      "periodName": "Chemistry"
+    },
+    {
+      "startTime": "12:00 PM",
+      "endTime": "1:00 PM",
+      "periodName": "Science"
+    }
+  ],
+  "Tuesday": [
+    {
+      "startTime": "9:00 AM",
+      "endTime": "10:00 AM",
+      "periodName": "Period 1"
+    },
+    {
+      "startTime": "10:00 AM",
+      "endTime": "11:00 AM",
+      "periodName": "Period 2"
+    },
+    {
+      "startTime": "11:00 AM",
+      "endTime": "12:00 PM",
+      "periodName": "Period 3"
+    },
+    {
+      "startTime": "12:00 PM",
+      "endTime": "1:00 PM",
+      "periodName": "Period 4"
+    }
+  ],
+  "Wednesday": [
+    {
+      "startTime": "09:00 PM",
+      "endTime": "10:00 PM",
+      "periodName": "Period 1"
+    },
+    {
+      "startTime": "10:00 PM",
+      "endTime": "11:00 PM",
+      "periodName": "Period 2"
+    },
+    {
+      "startTime": "11:00 PM",
+      "endTime": "12:00 PM",
+      "periodName": "Period 3"
+    },
+    {
+      "startTime": "04:00 PM",
+      "endTime": "05:00 PM",
+      "periodName": "HRM"
+    }
+  ],
+  "Thursday": [
+    {
+      "startTime": "09:00 AM",
+      "endTime": "10:00 AM",
+      "periodName": "Python"
+    },
+    {
+      "startTime": "10:00 AM",
+      "endTime": "11:00 AM",
+      "periodName": "Maths"
+    },
+    {
+      "startTime": "11:00 AM",
+      "endTime": "12:00 AM",
+      "periodName": "Science"
+    },
+    {
+      "startTime": "12:00 AM",
+      "endTime": "01:00 AM",
+      "periodName": "HRM"
+    },
+    {
+      "startTime": "01:00 AM",
+      "endTime": "02:00 AM",
+      "periodName": "BNM"
+    }
+  ],
+  "Friday": [
+    {
+      "startTime": "9:00 AM",
+      "endTime": "10:00 AM",
+      "periodName": "Period 1"
+    },
+    {
+      "startTime": "10:00 AM",
+      "endTime": "11:00 AM",
+      "periodName": "Period 2"
+    },
+    {
+      "startTime": "11:00 AM",
+      "endTime": "12:00 PM",
+      "periodName": "Period 3"
+    },
+    {
+      "startTime": "12:00 PM",
+      "endTime": "1:00 PM",
+      "periodName": "Period 4"
+    }
+  ]
+}
