@@ -109,9 +109,9 @@
       "periodName": "Period 3"
     },
     {
-      "startTime": "12:00 PM",
-      "endTime": "1:00 PM",
-      "periodName": "Period 4"
+      "startTime": "03:00 PM",
+      "endTime": "06:00 PM",
+      "periodName": "BNM"
     }
   ]
 }
